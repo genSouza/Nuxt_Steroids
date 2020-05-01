@@ -8,6 +8,8 @@
       <h2 class="subtitle">
         My cool Nuxt.js project
       </h2>
+      <!-- <a href="/users">Users</a> -->
+      <nuxt-link to="/users">Users</nuxt-link>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
