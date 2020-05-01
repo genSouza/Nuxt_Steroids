@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>The users view</h1>
+    <h1>The Users view</h1>
     <input type="text" v-model="userId" />
     <button @click="onLoadUser">Load user</button>
   </div>
