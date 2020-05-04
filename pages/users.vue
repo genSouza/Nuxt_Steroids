@@ -7,6 +7,7 @@
   </div>
 </template>
 <script>
+
 export default {
   data() {
     return {
@@ -17,7 +18,6 @@ export default {
     onLoadUser() {
       this.$router.push(`/users/${this.userId}`);
     }
-  },
-  layout: "users"
+  }  
 };
 </script>
