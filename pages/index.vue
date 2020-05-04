@@ -4,8 +4,7 @@
       <logo />
       <h1 class="title">section1</h1>
       <h2 class="subtitle">My cool Nuxt.js project</h2>
-      <!-- <a href="/users">Users</a> -->
-      <nuxt-link to="/users">Users</nuxt-link>
+      
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
         <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a>
