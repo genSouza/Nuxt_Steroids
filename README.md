@@ -1,6 +1,7 @@
 # section1
 
-> My cool Nuxt.js project
+> nuxtjs-vuejs-on-steroids/
+> Project made for the course: https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/
 
 ## Build Setup
 
